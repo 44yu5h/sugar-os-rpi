@@ -37,3 +37,6 @@ unzip zip p7zip-full
 file
 kms++-utils
 python3-venv
+python3-pip
+libsoup-3.0
+gir1.2-webkit2-4.1
